@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "0_lib")(type "KiCad")(uri "${KIPRJMOD}/0_lib.kicad_sym")(options "")(descr ""))
-  (lib (name "USBCmodule")(type "KiCad")(uri "C:/Users/rosei/Documents/KiCad/8.0/symbols/USBCmodule.kicad_sym")(options "")(descr ""))
-)
